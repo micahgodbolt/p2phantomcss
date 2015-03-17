@@ -1,0 +1,17 @@
+{
+  "name": "phantomtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-phantomcss": "git://github.com/micahgodbolt/grunt-phantomcss.git#alt-runner",
+    "phantomjs": "^1.9.7-14"
+  }
+}
